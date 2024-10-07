@@ -1,6 +1,6 @@
 # Hi, I'm Azril Anggra Atmoko! 👋
 
-![Welcome](https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif)
+![Welcome](giphy.com)
 
 I'm a budding *Programmer* who's just started my journey in the world of *Programming* and *IT*. I’m excited to learn, grow, and build amazing projects!
 
