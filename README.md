@@ -24,9 +24,9 @@ I'm a budding *Programmer* who's just started my journey in the world of *Progra
 ---
 
 ## Stats 📊
-!(![MamangZriel's Stats](https://github-readme-stats.vercel.app/api?username=MamangZriel&theme=vue-dark&show_icons=true&hide_border=true&count_private=true))
-![MamangZriel's Streak](https://github-readme-streak-stats.herokuapp.com/?user=MamangZriel&theme=vue-dark&hide_border=true)
-![MamangZriel's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MamangZriel&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+(https://github-readme-stats.vercel.app/api?username=MamangZriel&theme=vue-dark&show_icons=true&hide_border=true&count_private=true))
+(https://github-readme-streak-stats.herokuapp.com/?user=MamangZriel&theme=vue-dark&hide_border=true)
+(https://github-readme-stats.vercel.app/api/top-langs/?username=MamangZriel&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 ---
 
 ## Let's Connect 🌍
