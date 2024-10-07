@@ -36,4 +36,4 @@ WELCOME TO MY GITHUB
 [![TikTok](https://img.shields.io/badge/TikTok-black?style=for-the-badge&logo=tiktok)](https://www.tiktok.com/@zriel_mc?is_from_webapp=1&sender_device=pc)
 [![Youtube](https://img.shields.io/badge/Youtube-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/@ZRIELMc)
 
-![Thanks for visiting!](https://svg-banners.vercel.app/api?type=glitch&text=Thanks%20For%20Visiting!&width=800&height=100)
+![Thanks for visiting!](G:\My Private Files\OneDrive\Desktop\728x90__b7fddc44d84b2__1728297055.png)
