@@ -33,7 +33,7 @@ I'm a budding *Programmer* who's just started my journey in the world of *Progra
 
 ## Let's Connect 🌍
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/yourprofile)
-[![Twitter](https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter)](https://twitter.com/yourprofile)
+[![TikTok](https://img.shields.io/badge/TikTok-black?style=for-the-badge&logo=tiktok)](https://www.tiktok.com/@zriel_mc?is_from_webapp=1&sender_device=pc)
+[![Youtube](https://img.shields.io/badge/Youtube-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/@ZRIELMc)
 
 ![Thanks for visiting!](https://svg-banners.vercel.app/api?type=glitch&text=Thanks%20for%20visiting!&width=800&height=100)
