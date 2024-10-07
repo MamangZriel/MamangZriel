@@ -25,7 +25,7 @@ I'm a budding *Programmer* who's just started my journey in the world of *Progra
 
 ## Stats 📊
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Azril-Anggra-Atmoko&show_icons=true&theme=radical)
+![GitHub stats](![MamangZriel's Stats](https://github-readme-stats.vercel.app/api?username=MamangZriel&theme=vue-dark&show_icons=true&hide_border=true&count_private=true))
 
 ---
 
