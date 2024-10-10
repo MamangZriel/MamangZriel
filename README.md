@@ -18,7 +18,7 @@ WELCOME TO MY GITHUB
 
 | Project | Description |
 | ------- | ----------- |
-| [My Project(Belum 100% Jadi](https://github.com/MamangZriel/My-First-Website-.git) | This is my first project where I learned the basics |
+| [My FIsrt Website(Website Telah Terpublish](https://github.com/MamangZriel/My-First-Website-.git) | This is my first project where I learned the basics |
 
 
 ---
