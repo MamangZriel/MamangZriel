@@ -1,6 +1,5 @@
-WELCOME TO MY GITHUB
-
-
+## Welcome
+Cek animasi selamat datang: [Live Demo](https://mamangzriel.github.io/reponame/)
 
 ---
 
